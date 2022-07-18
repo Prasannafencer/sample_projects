@@ -16,4 +16,8 @@ public class CreateContactTest {
 	public void deletContactAndverify() {
 		System.out.println("Contact deleted");
 	}
+	@Test
+	public void deletContactAndverifyID() {
+		System.out.println("Contact deleted");
+	}
 }
